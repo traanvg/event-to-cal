@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://localhost:3001/api/parse";
+const API_URL = "https://event-to-cal.onrender.com/api/parse";
 
 function CalendarIcon() {
   return (
